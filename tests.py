@@ -1,3 +1,7 @@
+# Aula Prática 4 - Engenharia de Software II
+# Gabriel Pains de Oliveira Cardoso - 2021096887
+
+
 import unittest
 from quadratic_solver import solve_quadratic
 
